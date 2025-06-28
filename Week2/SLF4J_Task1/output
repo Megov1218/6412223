@@ -1,0 +1,2 @@
+12:34:56.789 [main] ERROR com.example.LoggingExample - This is an error message
+12:34:56.790 [main] WARN  com.example.LoggingExample - This is a warning message
