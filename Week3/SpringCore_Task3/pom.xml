@@ -15,21 +15,21 @@
     </properties>
 
     <dependencies>
-        <!-- Spring Context (Core IoC/DI) -->
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
             <version>5.3.25</version>
         </dependency>
 
-        <!-- Spring AOP (for Aspect-Oriented Programming) -->
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
             <version>5.3.25</version>
         </dependency>
 
-        <!-- Spring WebMVC (for building web applications) -->
+        
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
@@ -39,7 +39,7 @@
 
     <build>
         <plugins>
-            <!-- Maven Compiler Plugin for Java 1.8 -->
+           
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
